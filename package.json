@@ -9,7 +9,7 @@
     "dev": "nodemon index.ts"
   },
   "keywords": [],
-  "author": "Techie Emma",
+  "author": "Techie ",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
